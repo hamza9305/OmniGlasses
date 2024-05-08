@@ -75,22 +75,29 @@ The output should look like the following:
 
 As it can be seen from the figure above, the right image is successfully transformed to the perspective of the left camera. As the superposition is mainly sharp, this proves that left image and transformed right image coincide significantly. Blurred regions in the transformed right image or in the image superposition however can be seen as occlusion artifacts and cannot be traced back to the view synthesis itself. For more details, please confer [1].
 
-## References
+## Scientific article
+The article can be found [here](https://link.springer.com/10.1007/s00138-024-01534-2).
 
-[1] J. B. Seuffert, A. C. P. Grassi, H. Ahmed, R. Seidel, and G. Hirtz, “OmniGlasses: An Optical Aid for Stereo Vision CNNs to Enable Omnidirectional Image Processing,” In Review, preprint, Apr. 2023. doi: 10.21203/rs.3.rs-2776786/v1.
+## References
+[1] J. B. Seuffert, A. C. Perez Grassi, H. Ahmed, R. Seidel, and G. Hirtz, “OmniGlasses: an optical aid for stereo vision CNNs to enable omnidirectional image processing,” Machine Vision and Applications, vol. 35, no. 3, pp. 58–72, Apr. 2024, doi: 10.1007/s00138-024-01534-2.
 [2] Y. Wang *et al.*, “Anytime Stereo Image Depth Estimation on Mobile Devices,” in *2019 International Conference on Robotics and Automation (ICRA)*, Montreal, QC, Canada, 2019, pp. 5893–5900. doi: [10.1109/ICRA.2019.8794003](https://doi.org/10.1109/ICRA.2019.8794003).  
 
-### BibTeX
+## BibTeX
 
 ```bibtex
-@techreport{seuffert_omniglasses_2023,
-    type={preprint},
-    title={{OmniGlasses}: {An} {Optical} {Aid} for {Stereo} {Vision} {CNNs} to {Enable} {Omnidirectional} {Image} {Processing}},
-    shorttitle={{OmniGlasses}},
-    institution={In Review},
-    author={Seuffert, Julian Bruno and Perez Grassi, Ana Cecilia and Ahmed, Hamza and Seidel, Roman and Hirtz, Gangolf},
-    month=apr,
-    year={2023},
-    doi={10.21203/rs.3.rs-2776786/v1}
+@article{seuffert_omniglasses_2024,
+    title = {{OmniGlasses}: an optical aid for stereo vision {CNNs} to enable omnidirectional image processing},
+    volume = {35},
+    issn = {0932-8092, 1432-1769},
+    shorttitle = {{OmniGlasses}},
+    url = {https://link.springer.com/10.1007/s00138-024-01534-2},
+    doi = {10.1007/s00138-024-01534-2},
+    number = {3},
+    urldate = {2024-05-07},
+    journal = {Machine Vision and Applications},
+    author = {Seuffert, Julian B. and Perez Grassi, Ana C. and Ahmed, Hamza and Seidel, Roman and Hirtz, Gangolf},
+    month = apr,
+    year = {2024},
+    pages = {58--72}
 }
 ```
