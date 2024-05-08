@@ -79,7 +79,7 @@ As it can be seen from the figure above, the right image is successfully transfo
 The article can be found [here](https://link.springer.com/10.1007/s00138-024-01534-2).
 
 ## References
-[1] J. B. Seuffert, A. C. Perez Grassi, H. Ahmed, R. Seidel, and G. Hirtz, “OmniGlasses: an optical aid for stereo vision CNNs to enable omnidirectional image processing,” Machine Vision and Applications, vol. 35, no. 3, pp. 58–72, Apr. 2024, doi: 10.1007/s00138-024-01534-2.
+[1] J. B. Seuffert, A. C. Perez Grassi, H. Ahmed, R. Seidel, and G. Hirtz, “OmniGlasses: an optical aid for stereo vision CNNs to enable omnidirectional image processing,” Machine Vision and Applications, vol. 35, no. 3, pp. 58–72, Apr. 2024, doi: [10.1007/s00138-024-01534-2](https://doi.org/10.1007/s00138-024-01534-2).  
 [2] Y. Wang *et al.*, “Anytime Stereo Image Depth Estimation on Mobile Devices,” in *2019 International Conference on Robotics and Automation (ICRA)*, Montreal, QC, Canada, 2019, pp. 5893–5900. doi: [10.1109/ICRA.2019.8794003](https://doi.org/10.1109/ICRA.2019.8794003).  
 
 ## BibTeX
